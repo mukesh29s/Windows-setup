@@ -1,0 +1,2 @@
+Edit the $apps array in setup.ps1 to add your preferred software.
+**Would you like me to add a final module to the script that tweaks the Windows UI (e.g., hiding the Taskbar Search box or showing File Extensions)?**
